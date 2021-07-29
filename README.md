@@ -1,2 +1,1 @@
-# Thank-you-
-Config files for my GitHub profile.
+# A big man
